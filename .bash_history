@@ -58,3 +58,9 @@ git commit
 git commit
 git init
 git status
+git add .
+git commit
+git remote add origin https://github.com/polinamalysheva/polina.github.io.git
+git push -u origin master
+git push -u origin master
+git push -u origin master
