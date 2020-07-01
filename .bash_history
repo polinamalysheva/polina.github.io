@@ -33,3 +33,28 @@ git init
 http-server
 git init
 git status
+git add .
+git commit
+git config --global user.email "malysheva.polya2018@yandex.ru"
+git config --global user.name "polinamalysheva"
+git commit
+git remote add origin https://github.com/polinamalysheva/polina.github.io.git
+git push -u origin master
+git push -u origin master
+polinamalysheva
+git push -u origin master
+https://polinamalysneva@github.com'
+git push -u origin master
+~/ (master) $
+~
+
+git commit -m "first commit"
+git init
+git commit -m "first commit"
+git status
+git status
+git add .
+git commit
+git commit
+git init
+git status
